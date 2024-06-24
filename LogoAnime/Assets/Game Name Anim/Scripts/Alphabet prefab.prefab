@@ -123,7 +123,7 @@ MonoBehaviour:
   - {r: 0.8301887, g: 0.3534515, b: 0.05873976, a: 0}
   - {r: 1, g: 0.532876, b: 0, a: 0}
   - {r: 1, g: 0.029075107, b: 0, a: 0}
-  blendDuration: 2
+  blendDuration: 0.5
 --- !u!1 &8307027394189310327
 GameObject:
   m_ObjectHideFlags: 0
